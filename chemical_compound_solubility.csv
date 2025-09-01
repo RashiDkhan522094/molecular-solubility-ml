@@ -1,4 +1,4 @@
-MolecularWeight,LogP,HydrogenBondDonors,HydrogenBondAcceptors,PolarSurfaceArea,Solubility_gL,Class
+MolecularWeight,LogP,HydrogenBondDonors,HydrogenBondAcceptors,PolarSurfaceArea,Solubility_gL,Class.
 218.5430534813131,7.082658859666537,4,5,139.48504298622572,1.693141083529946,Slightly Soluble
 477.8214378844623,0.395618906669724,3,0,52.88872183860135,13.057912652212014,Highly Soluble
 379.3972738151323,-0.5510512790877691,5,0,110.40344600386418,14.406702196590704,Highly Soluble
