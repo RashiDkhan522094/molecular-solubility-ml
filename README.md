@@ -1,0 +1,1 @@
+Classifies compounds as Highly Soluble, Slightly Soluble, or Insoluble using molecular descriptors like Molecular Weight, LogP, H-Bond Donors/Acceptors, and Polar Surface Area. Implemented with Logistic Regression and Decision Tree models
